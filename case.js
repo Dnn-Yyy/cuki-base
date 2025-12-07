@@ -34,7 +34,7 @@ async function handleSwitchCommand(sock, m) {
   try {
     const from = m.key.remoteJid
     const sender = m.key.participant || m.key.remoteJid
-
+    m.chat = from
     let body = getBody(m)
     if (!body) return
     body = body.trim()
