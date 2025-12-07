@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/4RKttH3m/android-chrome-192x192.png" width="180" />
+  <img src="https://cdn.yupra.my.id/yp/2w3gu9xr.jpg" width="180" />
 </p>
 
 <h1 align="center">🤖 Base WhatsApp Bot Baileys (case)</h1>
